@@ -3,4 +3,4 @@
 - Разметка HTML-элементов написана по методологии БЭМ
 - При написании был использован препроцессор Sass
 - Все изображения структурированны по папкам
-- Макет сайта был в формате Photoshop PSD, [Источник](https://psdfreebies.com/psd/motorcycle-expedition-company-website-psd/)
+- Макет сайта был в формате Photoshop PSD [Источник](https://psdfreebies.com/psd/motorcycle-expedition-company-website-psd/)
