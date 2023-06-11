@@ -1,0 +1,120 @@
+@font-face {
+    font-family: "Bebas Neue";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Bebas Neue"),
+    local("Bebas-Neue"),
+    url("../fonts/Bebas-Neue/BebasNeue-Regular.woff2") format('woff2'),
+    url("../fonts/Bebas-Neue/BebasNeue-Regular.woff") format('woff'),
+    url("../fonts/Bebas-Neue/BebasNeue-Regular.eot") format('eot');
+}
+@font-face {
+    font-family: "Bebas Neue Book";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Bebas Neue Book"),
+    local("Bebas-Neue-Book"),
+    url("../fonts/Bebas-Neue/Bebas-Neue-Book.woff2") format('woff2'),
+    url("../fonts/Bebas-Neue/Bebas-Neue-Book.woff") format('woff'),
+    url("../fonts/Bebas-Neue/Bebas-Neue-Book.eot") format('eot');
+}
+@font-face {
+    font-family: "Big Noodle Titling";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Big Noodle Titling"),
+    local("Big-Noodle-Titling"),
+    url("../fonts/Big-Noodle-Titling/Big-Noodle-Titling.woff2") format('woff2'),
+    url("../fonts/Big-Noodle-Titling/Big-Noodle-Titling.woff") format('woff'),
+    url("../fonts/Big-Noodle-Titling/Big-Noodle-Titling.eot") format('eot');
+}
+@font-face {
+    font-family: "Billy Ohio";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Billy Ohio"),
+    local("Billy-Ohio"),
+    url("../fonts/Billy\ Ohio/Billy-Ohio.woff2") format('woff2'),
+    url("../fonts/Billy\ Ohio/Billy-Ohio.woff") format('woff'),
+    url("../fonts/Billy\ Ohio/Billy-Ohio.eot") format('eot');
+}
+@font-face {
+    font-family: "HelveticaLTStd BoldCond";
+    font-weight: 400;
+    font-style: normal;
+    src: local("HelveticaLTStd BoldCond"),
+    local("HelveticaLTStd-BoldCond"),
+    url("../fonts/HelveticaLTStd\ BoldCond/HelveticaLTStd BoldCond.woff2") format('woff2'),
+    url("../fonts/HelveticaLTStd\ BoldCond/HelveticaLTStd BoldCond.woff") format('woff'),
+    url("../fonts/HelveticaLTStd\ BoldCond/HelveticaLTStd BoldCond.eot") format('eot');
+}
+@font-face {
+    font-family: "Lato";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Lato"),
+    local("Lato-BoldCond"),
+    url("../fonts/Lato/Lato-Regular.woff2") format('woff2'),
+    url("../fonts/Lato/Lato-Regular.woff") format('woff'),
+    url("../fonts/Lato/Lato-Regular.eot") format('eot');
+}
+@font-face {
+    font-family: "Lato";
+    font-weight: 400;
+    font-style: italic;
+    src: local("Lato"),
+    local("Lato"),
+    url("../fonts/Lato/Lato-Italic.woff2") format('woff2'),
+    url("../fonts/Lato/Lato-Italic.woff") format('woff'),
+    url("../fonts/Lato/Lato-Italic.eot") format('eot');
+}
+@font-face {
+    font-family: "Lato";
+    font-weight: 500;
+    font-style: normal;
+    src: local("Lato"),
+    local("Lato"),
+    url("../fonts/Lato/Lato-Medium.woff2") format('woff2'),
+    url("../fonts/Lato/Lato-Medium.woff") format('woff'),
+    url("../fonts/Lato/Lato-Medium.eot") format('eot');
+}
+@font-face {
+    font-family: "Lato";
+    font-weight: 500;
+    font-style: italic;
+    src: local("Lato"),
+    local("Lato"),
+    url("../fonts/Lato/Lato-MediumItalic.woff2") format('woff2'),
+    url("../fonts/Lato/Lato-MediumItalic.woff") format('woff'),
+    url("../fonts/Lato/Lato-MediumItalic.eot") format('eot');
+}
+@font-face {
+    font-family: "Lato";
+    font-weight: 700;
+    font-style: normal;
+    src: local("Lato"),
+    local("Lato"),
+    url("../fonts/Lato/Lato-Bold.woff2") format('woff2'),
+    url("../fonts/Lato/Lato-Bold.woff") format('woff'),
+    url("../fonts/Lato/Lato-Bold.eot") format('eot');
+}
+@font-face {
+    font-family: "Lato";
+    font-weight: 700;
+    font-style: italic;
+    src: local("Lato"),
+    local("Lato"),
+    url("../fonts/Lato/Lato-BoldItalic.woff2") format('woff2'),
+    url("../fonts/Lato/Lato-BoldItalic.woff") format('woff'),
+    url("../fonts/Lato/Lato-BoldItalic.eot") format('eot');
+}
+@font-face {
+    font-family: "Montserrat Regular";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Montserrat Regular"),
+    local("Montserrat-Regular"),
+    url("../fonts/Montserrat-Regular/Montserrat-Regular.woff2") format('woff2'),
+    url("../fonts/Montserrat-Regular/Montserrat-Regular.woff") format('woff'),
+    url("../fonts/Montserrat-Regular/Montserrat-Regular.eot") format('eot');
+}
